@@ -1,3 +1,11 @@
+# windows 10 command prompt
+```shell
+cd C:\test-dapp
+yarn
+npm start
+```
+open your browser Chrome with Metatask: http://localhost:9011/ 
+
 # MetaMask Test Dapp
 
 This is a simple test dapp for use in MetaMask e2e tests and manual QA.
